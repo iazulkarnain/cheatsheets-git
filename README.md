@@ -26,7 +26,7 @@ git init
 echo "MIT License" > LICENSE
 echo "# Readme" > README.md
 git add ./*
-git commit -m "Initial commit
+git commit -m "Initial commit"
 git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
 git push -u origin master
 ```
