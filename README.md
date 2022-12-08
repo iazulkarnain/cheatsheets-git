@@ -28,7 +28,7 @@ echo "# Readme" > README.md
 git add ./*
 git commit -m "Initial commit"
 git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-git push -u origin master
+git push -u origin main
 ```
 
 ## Checking available branches in a local repo
