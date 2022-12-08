@@ -43,7 +43,7 @@ git remote add origin git@github.com:<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
 git clone git@github.com:<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
 ```
 
-## Creating new repositories and add files from local to remote
+## Creating a new repository and add new/updated files from local to remote
 ```shell
 cd <WORKING_DIR>
 git init
